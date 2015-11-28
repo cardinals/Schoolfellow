@@ -1,0 +1,3 @@
+
+post  ：http://localhost:8888/Service/getFellows  请求查询列表
+get    http://localhost:8888/Service/getFellowDetail?id=151091     请求详情
